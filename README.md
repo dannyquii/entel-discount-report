@@ -1,2 +1,1 @@
-# entel-discount-report
-Procesamiento de ficheros planos para generación de reportes financieros asociados a descuentos aplicados en planes tarifarios
+﻿﻿﻿# pyreportaplicación encargada de generar el procesamiento de archivos que contienen la aplicación de descuentos por condiciones comerciales al contratar una segunda línea adicional dentro de Perú.## 1 Instrucciones de ejecuciónA continuación se describe el procedimiento de ejecución de la aplicación. Es necesario que el equipo cuente con una versión de Python3.X instalada.## 
